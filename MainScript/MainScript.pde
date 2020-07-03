@@ -50,5 +50,5 @@ void draw (){
     endShape();
   }
   
-  yTime += 0.05;
+  yTime -= 0.03;
 }
